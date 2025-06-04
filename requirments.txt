@@ -1,1 +1,13 @@
 
+streamlit>=1.30.0
+langchain-groq>=0.1.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.1.0
+langchain-google-genai>=0.0.5
+faiss-cpu>=1.7.4
+pypdf>=3.17.0
+python-dotenv>=1.0.0
+pycountry>=22.3.5
+langdetect>=1.0.9
+deep-translator>=1.11.4
